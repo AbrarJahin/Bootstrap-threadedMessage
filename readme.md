@@ -2,14 +2,24 @@
 
 It is a easy to  use threaded message implementation which supports thereaded message view with mobile support (easily customisable and usable with AJAX).
 
-So, PC view-
+So, 
+## PC view-
 
 ![alt tag](./img/PC.jpg)
 
-And Mobile View-
+## Mobile View-
 
-![alt tag](./img/Mobile.jpg)
+### Normal View (Threads)
 
+Before selecting any item
+
+![alt tag](./img/Mobile_thread.jpg)
+
+### Detail View (Message)
+
+After selecting any item
+
+![alt tag](./img/Mobile_detail.jpg)
 
 Technology Used-
 
